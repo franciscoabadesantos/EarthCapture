@@ -5,6 +5,10 @@
 
 Automated extraction of satellite imagery from Google Earth Pro, plus small QGIS helpers for loading Google base layers.
 
+## Why Does This Exist?
+
+Google Earth Pro offers some of the best freely available satellite and aerial imagery on the planet — far sharper and more historically rich than what most free APIs expose. The catch: there's no programmatic access. You either pay for commercial imagery APIs or sit there clicking manually.EarthCapture is the third option. It automates the UI so you can extract that imagery at scale, without paying for a satellite data subscription. It's a scraper in the honest sense of the word — not elegant, but it gets the job done.
+
 ## Example Capture
 
 ![EarthCapture sample extraction](docs/images/extraction-sample.jpg)
