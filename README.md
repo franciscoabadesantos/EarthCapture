@@ -13,7 +13,7 @@ Google Earth Pro offers some of the best freely available satellite and aerial i
 
 ![EarthCapture sample extraction](docs/images/extraction-sample.jpg)
 
-Grid or ROI setup example for tiled capture workflows:
+Grid or ROI setup example for tiled capture workflows, with ROI coordinates drawn around residential areas and individual houses as reference points:
 
 ![EarthCapture grid setup example](docs/images/grid-setup-sample.jpg)
 
