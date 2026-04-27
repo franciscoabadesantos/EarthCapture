@@ -4,7 +4,7 @@ Automates image extraction from Google Earth Pro using mouse clicks and keyboard
 Supports both current imagery and historical imagery downloads with configurable zoom levels.
 """
 
-import config
+from . import config
 import pyautogui
 import pyperclip
 import os

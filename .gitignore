@@ -76,6 +76,7 @@ output/
 *.log
 *.csv
 image_extraction.log
+!data/sample_coordinates.csv
 
 # OS
 .DS_Store
