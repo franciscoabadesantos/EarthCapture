@@ -5,6 +5,10 @@
 
 Automated extraction of satellite imagery from Google Earth Pro, plus small QGIS helpers for loading Google base layers.
 
+## Example Capture
+
+![EarthCapture sample extraction](docs/images/extraction-sample.jpg)
+
 ## What This Repo Contains
 
 - `src/geo_earth_pro/` for the Google Earth Pro automation workflow
@@ -76,7 +80,9 @@ EarthCapture/
 ├── docs/
 │   ├── API.md
 │   ├── CONFIGURATION.md
-│   └── INSTALLATION.md
+│   ├── INSTALLATION.md
+│   └── images/
+│       └── extraction-sample.jpg
 ├── examples/
 │   └── extract_images.py
 ├── src/
