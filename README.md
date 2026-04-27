@@ -9,6 +9,10 @@ Automated extraction of satellite imagery from Google Earth Pro, plus small QGIS
 
 ![EarthCapture sample extraction](docs/images/extraction-sample.jpg)
 
+Grid or ROI setup example for tiled capture workflows:
+
+![EarthCapture grid setup example](docs/images/grid-setup-sample.jpg)
+
 ## What This Repo Contains
 
 - `src/geo_earth_pro/` for the Google Earth Pro automation workflow
@@ -82,7 +86,8 @@ EarthCapture/
 │   ├── CONFIGURATION.md
 │   ├── INSTALLATION.md
 │   └── images/
-│       └── extraction-sample.jpg
+│       ├── extraction-sample.jpg
+│       └── grid-setup-sample.jpg
 ├── examples/
 │   └── extract_images.py
 ├── src/
